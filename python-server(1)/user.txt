@@ -1,0 +1,4 @@
+{'username': '张三', 'password': '123876', 'sex': '1', 'hobby': ['1', '2'], 'self': '我喜欢打游戏'}
+{'username': '莉莉丝', 'password': 'ewrwerwer', 'sex': '2', 'hobby': ['2', '3'], 'self': '今天出太阳来 '}
+{'username': '第三方第三方', 'password': 'wrwqewq', 'sex': '2', 'hobby': ['2', '3'], 'self': '今天出太水电费的说法是阳来 '}
+{'username': '第三方第三方', 'password': 'wrwqewq', 'sex': '2', 'hobby': ['2', '3'], 'self': '今天出太水电费的说法是阳来 '}
